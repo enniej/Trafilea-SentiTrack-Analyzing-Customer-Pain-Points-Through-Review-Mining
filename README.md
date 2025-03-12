@@ -30,7 +30,8 @@ In the competitive tech commerce space, understanding customer sentiment across 
 
 ## 4. Exploratory Data Analysis (EDA)
 ### Sentiment Distribution
-![Sentiment Distribution](output_11_0.png)
+![Sentiment Distribution](images/output_11_0.png)
+
 The analysis reveals a significant imbalance in sentiment distribution:
 - Positive reviews: 26,530 (64.7%)
 - Negative reviews: 10,890 (26.6%)
