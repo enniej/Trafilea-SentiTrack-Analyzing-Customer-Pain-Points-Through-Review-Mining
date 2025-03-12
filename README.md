@@ -39,6 +39,7 @@ The analysis reveals a significant imbalance in sentiment distribution:
 
 ### Review Score Distribution
 ![Review Score Distribution](images/output_12_0.png)
+
 Review scores show polarization with many 5-star and 1-star ratings, suggesting strong customer opinions (either very satisfied or very dissatisfied).
 
 ### Review Volume Trends
@@ -47,6 +48,7 @@ The number of reviews increased over time, indicating growing customer engagemen
 
 ### Sentiment Trends Over Time
 ![Sentiment Trends](images/output_16_0.png)
+
 While positive sentiment dominates across all periods, there's a noticeable increasing trend in negative sentiment that warrants further investigation.
 
 ### Review Length Analysis
