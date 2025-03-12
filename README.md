@@ -38,23 +38,23 @@ The analysis reveals a significant imbalance in sentiment distribution:
 - Neutral reviews: 3,557 (8.7%)
 
 ### Review Score Distribution
-![Review Score Distribution](output_12_0.png)
+![Review Score Distribution](images/output_12_0.png)
 Review scores show polarization with many 5-star and 1-star ratings, suggesting strong customer opinions (either very satisfied or very dissatisfied).
 
 ### Review Volume Trends
-![Review Volume Trends](output_14_0.png)
+![Review Volume Trends](images/output_14_0.png)
 The number of reviews increased over time, indicating growing customer engagement or expanding business operations.
 
 ### Sentiment Trends Over Time
-![Sentiment Trends](output_16_0.png)
+![Sentiment Trends](images/output_16_0.png)
 While positive sentiment dominates across all periods, there's a noticeable increasing trend in negative sentiment that warrants further investigation.
 
 ### Review Length Analysis
-![Review Length vs Sentiment](output_17_0.png)
+![Review Length vs Sentiment](images/output_17_0.png)
 Negative reviews tend to be significantly longer than positive ones, suggesting customers provide more detailed feedback when dissatisfied.
 
 ### Word Count Analysis
-![Word Count vs Review Score](output_20_0.png)
+![Word Count vs Review Score](images/output_20_0.png)
 The scatter plot confirms the relationship between sentiment, review score, and review length, with negative reviews generally containing more words.
 
 ## 5. Methodology
